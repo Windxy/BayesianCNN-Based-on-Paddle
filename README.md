@@ -16,6 +16,10 @@ paddle == 2.1.0
 
 Teslav100 16GB
 
+## 复现要求
+
+MNIST手写数据集的Test数据集上，达到Test error **1.32%**
+
 ## AI Studio地址
 
 https://aistudio.baidu.com/aistudio/projectdetail/2301492
